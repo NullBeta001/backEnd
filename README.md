@@ -23,16 +23,3 @@
 * Processador: Dual Core 1GHz
 * RAM: 2Gb
 * Espaço em disco: 100Mb
-
-# Execução da aplicação
-* Instalação do Visual Studio Code (https://code.visualstudio.com/)
-* Faça o download desse repositorio (https://github.com/BrendoAlmeida/SenaiAtividades/tree/main/SA2/ER8/ProjetoUC9)
-* Abra o Visual Studio Code no projeto
-* Abra o terminal e digite dotnet run
-
-# Erros comuns
-* Ao iníciar um cadastro não é possivel interrompe-lo
-* Cadastro de informações inválidas
-
-# Contribuidores
-* Brendo Almeida
